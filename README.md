@@ -213,5 +213,5 @@ summary(lmliving_cost)
 
   Whats clear from this analysis is that transit in general is a factor on the real cost of housing and access to public transit helps midigate this pressure on individuals. Also how this the real cost of housing is effect by socioeconomic status is seen at least somewhat progressive. Meaning there is less of a burden on the lower end.
 
-  Further analysis is recommended that could further this project. frist, whether cars over all impact on real income is positive or negative because it does bring down the real housing costs but it is a large cost unto its self. secondly, the effect of public policy on public transit to drive more equitable housing. Lastly, further anaylsis of increasing real housing costs across socioeconomic tiers.
+  Further analysis is recommended that could further this project. first, whether cars over all impact on real income is positive or negative because it does bring down the real housing costs but it is a large cost unto its self. secondly, the effect of public policy on public transit to drive more equitable housing. Lastly, further anaylsis of increasing real housing costs across socioeconomic tiers.
 
